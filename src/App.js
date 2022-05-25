@@ -11,6 +11,7 @@ function App() {
   return (
     <div >
       <Header/>
+      <h2>Шапка</h2>
       <div>
       <Router>
         <Routes>
