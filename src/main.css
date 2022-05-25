@@ -1,0 +1,10 @@
+.header{
+    text-align: center;
+    background-color: rgb(50, 50, 153);
+    height: 50px;
+}
+
+.headerItem {
+    color: white;
+    padding: 10px;
+}
