@@ -2,7 +2,7 @@
 function About() {
     return (
       <div >
-        About
+        About Test
       </div>
     );
   }
