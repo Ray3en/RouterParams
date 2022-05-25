@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5eaea79d.css","mappings":"AAAA,QAEI,wBAAkC,CAClC,WAAY,CAFZ,iBAGJ,CAEA,YACI,UAAY,CACZ,YACJ","sources":["main.css"],"sourcesContent":[".header{\n    text-align: center;\n    background-color: rgb(50, 50, 153);\n    height: 50px;\n}\n\n.headerItem {\n    color: white;\n    padding: 10px;\n}\n"],"names":[],"sourceRoot":""}

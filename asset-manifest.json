@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RouterParams/static/css/main.5eaea79d.css",
+    "main.js": "/RouterParams/static/js/main.b4a9785e.js",
+    "index.html": "/RouterParams/index.html",
+    "main.5eaea79d.css.map": "/RouterParams/static/css/main.5eaea79d.css.map",
+    "main.b4a9785e.js.map": "/RouterParams/static/js/main.b4a9785e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eaea79d.css",
+    "static/js/main.b4a9785e.js"
+  ]
+}
